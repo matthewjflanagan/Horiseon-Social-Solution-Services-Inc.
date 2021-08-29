@@ -19,7 +19,7 @@ To start I needed to pull up the index.html & style.css files and view them side
 
 ## Usage
 
-    ![alt text](assets\images\Screenshot.PNG)
+ <img src="C:\Users\mattf\homeworks\week1\assets\images\Screenshot.PNG" alt="opening view of webpage" />
     
 ## Credits
 
