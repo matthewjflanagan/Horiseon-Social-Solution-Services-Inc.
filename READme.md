@@ -21,7 +21,7 @@ To start I needed to pull up the index.html & style.css files and view them side
 
  <img src="C:\Users\mattf\homeworks\week1\assets\images\Screenshot.PNG" alt="opening view of webpage" />
 
- <link rel="Horiseon Webpage" href="https://matthewjflanagan.github.io/horiseon-social-solution-services-inc.github.io/">
+ <a href="https://matthewjflanagan.github.io/horiseon-social-solution-services-inc.github.io/">This is a link to Horiseon's Webpage</a>
     
 ## Credits
 
