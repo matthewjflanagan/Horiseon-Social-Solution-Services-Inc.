@@ -8,24 +8,26 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Giving background color, font, and padding to the header*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
-    display: flex;
-    flex-wrap: wrap;
 }
 
+/* Shows the name of the company in the top left corder of the webpage */
 h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Gives a grey color to stand out of the rest of the company name in the header */
 span {
     color: #d9dcd6;
 }
 
+/* Provides structure for the links so that are side by side in the header */
 header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -44,8 +46,6 @@ li {
 }
 
 a {
-    display: flex;
-    justify-content: space-between;
     color: #ffffff;
     text-decoration: none;
 }

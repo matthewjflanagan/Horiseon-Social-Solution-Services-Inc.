@@ -20,7 +20,7 @@ To start I needed to pull up the index.html & style.css files and view them side
 ## Usage
 
     ![alt text](assets/images/screenshot.png)
-
+    
 ## Credits
 
 Major shoutout to the BCS Learning Assistants, they were all extremely helpful and professional going so far as hoping on Zoom calls to make sure my questions werer answered. 
