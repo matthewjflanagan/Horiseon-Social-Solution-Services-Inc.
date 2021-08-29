@@ -18,8 +18,6 @@ I came away from refracting this code this a deeper understanding of CSS selecto
 To start I needed to pull up the index.html & style.css files and view them side by side along with the website in a browser. Initially I noticed all the classes that were in the CSS file and that needed to be cleaned up. Semantic tags also needed to be added along with alt tags for easy readability. Comments were then added to the CSS file so that future developers understood what each function was doing. 
 
 ## Usage
-Provide instructions and examples for use. Include screenshots as needed.
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
     ```md
     ![alt text](assets/images/screenshot.png)
     ```
