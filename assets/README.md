@@ -18,9 +18,9 @@ I came away from refracting this code this a deeper understanding of CSS selecto
 To start I needed to pull up the index.html & style.css files and view them side by side along with the website in a browser. Initially I noticed all the classes that were in the CSS file and that needed to be cleaned up. Semantic tags also needed to be added along with alt tags for easy readability. Comments were then added to the CSS file so that future developers understood what each function was doing. 
 
 ## Usage
-    ```md
+
     ![alt text](assets/images/screenshot.png)
-    ```
+
 ## Credits
 
 Major shoutout to the BCS Learning Assistants, they were all extremely helpful and professional going so far as hoping on Zoom calls to make sure my questions werer answered. 
