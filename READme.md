@@ -19,7 +19,7 @@ To start I needed to pull up the index.html & style.css files and view them side
 
 ## Usage
 
-    ![alt text](assets/images/screenshot.png)
+    ![alt text](assets\images\Screenshot.PNG)
     
 ## Credits
 
