@@ -1,4 +1,4 @@
-# <horiseon-social-solution-services-inc.>
+# Horiseon Social Solution Services Inc.
 
 ## Description
 This website looks excellent to the user when you open up the desktop webpage! However, upon further inspection I noticed a few flaws in the webpage. The title of the webpage was 'webpage', which needed to updated to a more professional title, and some of the links were not functional. The code also needed to be simplified to allow for further collaboration. Semantic tags and structure needed to be added to index.html and simplified CSS selectors with comments of what the code is doing needed to be added. 
@@ -8,7 +8,8 @@ The company this website represents has a lot of potential for growth and with t
 The website is now fully functional on a desktop and the code is structured in a allow to allow collaboration and future development of the website. 
 
 I came away from refracting this code this a deeper understanding of CSS selectors and their role in producing this visuals you see on a modern website. 
-## Table of Contents (Optional)
+
+## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
@@ -19,9 +20,9 @@ To start I needed to pull up the index.html & style.css files and view them side
 
 ## Usage
 
- <img src="C:\Users\mattf\homeworks\week1\assets\images\Screenshot.PNG" alt="opening view of webpage" />
+![Screenshot of Webpage](assets/images/Screenshot.PNG)
 
- <a href="https://matthewjflanagan.github.io/horiseon-social-solution-services-inc.github.io/">This is a link to Horiseon's Webpage</a>
+Link to Webpage: https://matthewjflanagan.github.io/horiseon-social-solution-services-inc.github.io
     
 ## Credits
 

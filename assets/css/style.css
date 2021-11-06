@@ -98,85 +98,27 @@ section {
     background-color: #2589bd;
 }
 
-/* Gives structure and color of the font to benefit lead div in the aside */
-.benefit-lead {
+/* Gives structure and color of the font to each benefit div in the aside */
+.eachbenefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/* Gives structure and color of the font to benefit brand div in the aside */
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-/* Gives structure and color of the font to benefit cost div in the aside */
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-/* Gives place to the header tag of benefit lead div in the aside */
-.benefit-lead h3 {
+/* Gives place to the header tag of each benefit div in the aside */
+.benefitstitle {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/* Gives place to the header tag of benefit brand div in the aside */
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-/* Gives place to the header tag of benefit cost div in the aside */
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-/* Gives a position to the icon of benefit lead div in the aside */
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/* Gives a position to the icon of benefit brand div in the aside */
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/* Gives a position to the icon of benefit cost div in the aside */
-.benefit-cost img {
+/* Gives a position to the icon of each benefit div in the aside */
+.eachbenefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
 /* provides the font, font color, size, and structure of the search engine optimization article */
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* provides the font, font color, size, and structure of the online reputation management article */
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* provides the font, font color, size, and structure of the .social media marketing article */
-.social-media-marketing {
+.mainarticles {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -186,17 +128,7 @@ section {
 }
 
 /* Providing height of image */
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-/* Providing height of image */
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-/* Providing height of image */
-.social-media-marketing img {
+.mainarticles img {
     max-height: 200px;
 }
 
